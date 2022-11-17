@@ -1,0 +1,11 @@
+spring:
+  webflux:
+    format:
+      date-time: yyyy-MM-dd HH:mm:ss
+      date: dd/MM/yyyy
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+  mvc:
+    format:
+      date-time: yyyy-MM-dd HH:mm:ss
+      date: dd/MM/yyyy
